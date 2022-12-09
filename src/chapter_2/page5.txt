@@ -3,3 +3,5 @@ Hello, my name is vicky.
 I am learning command push pull
 
 stay tuned, more things to come.
+
+editor simulates the idea thta someone else made the changes
